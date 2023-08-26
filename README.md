@@ -4,7 +4,7 @@
 
 Welcome to the **Oizys** repository! This repository houses a web application built using a combination of Python, JavaScript, CSS, and HTML. Oizys is designed to showcase the integration of these technologies to create a seamless and interactive user experience.
 
-![Oizys Preview](preview.png)
+
 
 ## Table of Contents
 
