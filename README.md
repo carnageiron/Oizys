@@ -45,7 +45,10 @@ To set up the **Oizys** application on your local machine, follow these steps:
    cd Oizys
    ```
 
-3. Set up a local development server. You can use tools like Python's built-in `http.server` for simple setups.
+3. Run `requirements.txt` file.
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
