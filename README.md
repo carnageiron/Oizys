@@ -19,6 +19,8 @@ Welcome to the **Oizys** repository! This repository houses a web application bu
 
 **Oizys** is a web application that demonstrates the power of combining various programming languages and technologies to create a dynamic and engaging user interface. The application utilizes the strengths of Python, JavaScript, CSS, and HTML to provide users with a unique experience.
 
+Algorithm of the app: https://lucid.app/lucidchart/8991292c-46e4-4771-8ef7-134b7b55f472/edit?invitationId=inv_73229fa5-978c-4b99-b037-5e88cb7043cb
+
 ## Features
 
 - **Dynamic Content:** Oizys showcases dynamic content rendering through the use of JavaScript. Users will experience real-time updates without the need to refresh the page.
